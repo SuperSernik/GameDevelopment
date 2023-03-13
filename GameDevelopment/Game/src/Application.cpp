@@ -10,6 +10,7 @@ int main(){
 	engine::PrintSecondMessage();
 
 	engine::test();
+	engine::Print("sdf");
 
 	std::cin.get();
 }
