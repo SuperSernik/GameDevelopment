@@ -12,5 +12,8 @@ int main(){
 	engine::test();
 	engine::Print("sdf");
 
+	engine::PrintNatan();
+
+
 	std::cin.get();
 }

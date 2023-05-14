@@ -18,6 +18,11 @@ void engine::Print(const std::string x) {
     std::cout << x << std::endl;
 }
 
+void engine::PrintNatan() {
+    std::cout << "Natan" << std::endl;
+
+}
+
 
 int engine::test()
 {
